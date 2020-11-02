@@ -1,5 +1,5 @@
 
-### Hey all I'm Pacifique LINJAANJA 👋
+### Hey all I'm Pacifique LINJANJA 👋
 
 <h3> 👨🏻‍💻 About Me </h3>
 
