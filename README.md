@@ -5,15 +5,15 @@
 
 - 🤔 &nbsp; Exciting when it comes to read and getting challenged
 - 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma 
-- 💼 &nbsp; Working CRSDI - Goma  
-- 🌱 &nbsp; Learning how to build strong backend applications and Cloud Computing
+- 💼 &nbsp; Working at CRES - Goma  
+- 🌱 &nbsp; Learning how to build strong backend applications and Machine Learning
 - ✍️ &nbsp; Got a hobbie on Chess 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;  JavaScript | Typescript | React | Redux | React Native | Java | PHP
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL
+- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | PouchDb | CouchDb 
 - 🔧 &nbsp; Git | GitHub | AWS
 
 <br/>
