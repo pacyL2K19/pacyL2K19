@@ -18,7 +18,7 @@
 
 <br/>
 
-[![Pacifique LINJANJA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pacyL2K19&show_icons=true)](https://https://github.com/pacyL2K19)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacyL2K19&show_icons=true&theme=radical&layout=compact)](https://github.com/pacyL2K19/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
