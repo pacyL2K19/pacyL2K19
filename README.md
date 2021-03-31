@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | Typescript | React | Redux | React Native | Java | Ruby | RoR
+- 💻 &nbsp;  JavaScript | Typescript | React | Redux | React Native | VueJs | Ruby | RoR | Php Laravel
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | PouchDb | CouchDb 
 - 🔧 &nbsp; Git | GitHub 
