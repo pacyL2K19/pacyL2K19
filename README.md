@@ -15,7 +15,6 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap ReactJS | VueJs 
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | PouchDb | CouchDb 
 - 🔧 &nbsp; Git | GitHub 
-
 <br/>
 
 [![Pacifique Linjanja's github stats](https://github-readme-stats.vercel.app/api?username=pacyL2K19&show_icons=true&theme=radical)](https://github.com/pacyL2K19/github-readme-stats)
