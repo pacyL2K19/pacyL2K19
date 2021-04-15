@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exciting when it comes to read and getting challenged
 - 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma 
-- 💼 &nbsp; Working at Kinshasa Digital 
+- 💼 &nbsp; Working at Kinshasa Digital | Microverse | CRES
 - 🌱 &nbsp; Learning how to build strong backend applications and Machine Learning
 - ✍️ &nbsp; Got a hobbie on Chess 
 
