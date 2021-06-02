@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exciting when it comes to read and getting challenged
+- 🤔 &nbsp; Excited when it comes to reading and getting challenged
 - 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma 
 - 💼 &nbsp; Working at Kinshasa Digital | Microverse | CRES
 - 🌱 &nbsp; Learning how to build strong backend applications and Machine Learning
