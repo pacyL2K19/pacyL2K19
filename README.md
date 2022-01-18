@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Excited when it comes to reading and getting challenged
 - 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma 
-- 💼 &nbsp; Microverse | CRES | Tech-Congo | Ever.co
+- 💼 &nbsp; Microverse | CRES | Tech-Congo | Ever.co | Ekshot | Keeano.ltd
 - 🌱 &nbsp; Learning how to build strong backend applications and Machine Learning
 - ✍️ &nbsp; Got a hobby on Chess 
 
