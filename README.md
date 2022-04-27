@@ -1,12 +1,9 @@
+## Pacique Linjanja 
 
-### Hey all I'm Pacifique LINJANJA 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+All+👋,+I+am+Pacifique+Linjanja;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Excited+when+it+comes+to+getting+challenged;Web3+Developer)](https://git.io/typing-svg)
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Excited when it comes to reading and getting challenged
-- 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma 
-- 💼 &nbsp; Microverse | CRES | Tech-Congo | Ever.co | Ekshot 
-- 🌱 &nbsp; Learning how to build strong backend applications and Machine Learning
+- 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma | Microverse Alumni 🧑‍🎓
+- 💼 &nbsp; Ever.co 🔥 | CRES 🤩 | Tech-Congo 💕 | Ekshot ⚒️
 - ✍️ &nbsp; Got a hobby on Chess 
 
 <h3>🛠 Tech Stack</h3>
@@ -15,6 +12,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap ReactJS | VueJs 
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | PouchDb | CouchDb | sqlite
 - 🔧 &nbsp; Git | GitHub | GitFlow
+
 <br/>
 
 [![Pacifique Linjanja's github stats](https://github-readme-stats.vercel.app/api?username=pacyL2K19&show_icons=true&theme=radical)](https://github.com/pacyL2K19/github-readme-stats)
