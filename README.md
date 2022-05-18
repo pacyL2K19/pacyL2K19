@@ -15,10 +15,6 @@
 
 <br/>
 
-[![Pacifique Linjanja's github stats](https://github-readme-stats.vercel.app/api?username=pacyL2K19&show_icons=true&theme=radical)](https://github.com/pacyL2K19/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacyL2K19&show_icons=true&theme=radical&layout=compact)](https://github.com/pacyL2K19/github-readme-stats)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
