@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+All+👋,+I+am+Pacifique+Linjanja;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Excited+when+it+comes+to+getting+challenged;Web3+Developer)](https://git.io/typing-svg)
 
 - 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma | Microverse Alumni 🧑‍🎓
-- 💼 &nbsp; Ever.co 🔥 | CRES 🤩 | Tech-Congo 💕 | Ekshot ⚒️
+- 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | Tech-Congo 💕 | Ekshot ⚒️
 - ✍️ &nbsp; Got a hobby on Chess 
 
 <h3>🛠 Tech Stack</h3>
