@@ -1,4 +1,4 @@
-## Hi All 👋, I am Pacique Linjanja 
+## Hi All 👋, I am Pacifique Linjanja 
 
 
 - 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma | Microverse Alumni 🧑‍🎓
