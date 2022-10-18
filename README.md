@@ -1,6 +1,5 @@
-## Pacique Linjanja 
+## Hi All 👋, I am Pacique Linjanja 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+All+👋,+I+am+Pacifique+Linjanja;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Excited+when+it+comes+to+getting+challenged;Web3+Developer)](https://git.io/typing-svg)
 
 - 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma | Microverse Alumni 🧑‍🎓
 - 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | Tech-Congo 💕 | Ekshot ⚒️
@@ -8,7 +7,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | Typescript | React & Redux | VueJs | React Native | Ruby & RoR | Php & Laravel | Node.js & ExpressJs
+- 💻 &nbsp;  JavaScript | Typescript | React & Redux & MobX | VueJs | React Native | Ruby & RoR | Php & Laravel | Node.js & ExpressJs & NestJs
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap ReactJS | VueJs 
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | PouchDb | CouchDb | sqlite
 - 🔧 &nbsp; Git | GitHub | GitFlow
