@@ -1,14 +1,14 @@
 ## Hi All 👋, I am Pacifique Linjanja 
 
 
-- 🎓 &nbsp; Sr. Software Engineer graduated at ULPGL - Goma | Microverse Alumni 🧑‍🎓
-- 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | Tech-Congo 💕 | Ekshot ⚒️
+- 🎓 &nbsp; Sr. Software Engineer | Microverse Alumni 🧑‍🎓
+- 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | DabbleLab
 - ✍️ &nbsp; Got a hobby on Chess 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | Typescript | React & Redux & MobX | VueJs | React Native | Ruby & RoR | Php & Laravel | Node.js & ExpressJs & NestJs
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap ReactJS | VueJs 
+- 💻 &nbsp;  JavaScript | Typescript | Solidity | React & Redux & MobX | VueJs | React Native | Ruby & RoR | Php & Laravel | Node.js & ExpressJs & NestJs | Web3 | DAO
+- 🌐 &nbsp; HTML | CSS | TailwindCSS | JavaScript | Bootstrap ReactJS | VueJs
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | PouchDb | CouchDb | sqlite
 - 🔧 &nbsp; Git | GitHub | GitFlow
 
