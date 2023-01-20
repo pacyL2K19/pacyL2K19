@@ -1,7 +1,9 @@
-## Hi All 👋, I am Pacifique Linjanja 
+# Hi All 👋
+
+## I am Pacifique Linjanja 
 
 
-- 🎓 &nbsp; Sr. Software Engineer | Microverse Alumni 🧑‍🎓
+- 🎓 &nbsp; Software Engineer | Microverse Alumni 🧑‍🎓
 - 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | DabbleLab 🛠
 - ✍️ &nbsp; Got a hobby on Chess 
 - 📚 &nbsp; Into writing Technical Articles
