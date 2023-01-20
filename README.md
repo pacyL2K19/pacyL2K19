@@ -1,7 +1,7 @@
 ## Hi All 👋, I am Pacifique Linjanja 
 
 
-- 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma | Microverse Alumni 🧑‍🎓
+- 🎓 &nbsp; Sr. Software Engineer graduated at ULPGL - Goma | Microverse Alumni 🧑‍🎓
 - 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | Tech-Congo 💕 | Ekshot ⚒️
 - ✍️ &nbsp; Got a hobby on Chess 
 
