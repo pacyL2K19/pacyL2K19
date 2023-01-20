@@ -5,8 +5,8 @@
 
 - 🎓 &nbsp; Software Engineer | Microverse Alumni 🧑‍🎓
 - 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | DabbleLab 🛠
-- ✍️ &nbsp; Got a hobby on Chess 
 - 📚 &nbsp; Into writing Technical Articles
+- ✍️ &nbsp; Got a hobby on Chess 
 
 <h3>🛠 Tech Stack</h3>
 
