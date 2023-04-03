@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Software Engineer | Microverse Alumni 🧑‍🎓
 - 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | DabbleLab 🛠 | UTA 🛠️
-- 📚 &nbsp; Into writing Technical Articles
+- 📚 &nbsp; Into writing [Technical Articles](https://paclinjanja.hashnode.dev/)
 - ✍️ &nbsp; Got a hobby on Chess
 
 <h3>🛠 Tech Stack</h3>
