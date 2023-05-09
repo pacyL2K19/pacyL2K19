@@ -2,10 +2,11 @@
 
 ## I am Pacifique Linjanja 
 
+> Software engineer with experience building enterprise-level applications using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. Enjoys books and chess.
 
 - 🎓 &nbsp; Software Engineer | Microverse Alumni 🧑‍🎓
 - 💼 &nbsp; CRES 🤩 | DabbleLab 🔥 | UTA 🛠️
-- 📚 &nbsp; Into writing Technical Articles - [hashnode](https://paclinjanja.hashnode.dev/) [freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/)
+- 📚 &nbsp; Into writing Technical Articles - [Hashnode](https://paclinjanja.hashnode.dev/) - [Freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/)
 - ✍️ &nbsp; Got a hobby on Chess
 
 <h3>🛠 Tech Stack</h3>
