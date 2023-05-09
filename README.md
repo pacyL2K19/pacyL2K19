@@ -4,8 +4,8 @@
 
 
 - 🎓 &nbsp; Software Engineer | Microverse Alumni 🧑‍🎓
-- 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | DabbleLab 🛠 | UTA 🛠️
-- 📚 &nbsp; Into writing [Technical Articles](https://paclinjanja.hashnode.dev/)
+- 💼 &nbsp; CRES 🤩 | DabbleLab 🔥 | UTA 🛠️
+- 📚 &nbsp; Into writing Technical Articles - [hashnode](https://paclinjanja.hashnode.dev/) [freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/)
 - ✍️ &nbsp; Got a hobby on Chess
 
 <h3>🛠 Tech Stack</h3>
