@@ -16,8 +16,6 @@
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | PouchDb | CouchDb | sqlite
 - 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile
 
-<br/>
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
