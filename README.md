@@ -4,7 +4,7 @@
 
 > Software engineer with experience building enterprise-level applications using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. Enjoys books and chess.
 
-- 🎓 &nbsp; Software Engineer | Microverse Alumni 🧑‍🎓
+- 🎓 &nbsp; Software Engineer
 - 💼 &nbsp; CRES 🤩 | DabbleLab 🔥 | UTA 🛠️
 - 📚 &nbsp; Into writing Technical Articles - [Hashnode](https://paclinjanja.hashnode.dev/) - [Freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/)
 - ✍️ &nbsp; Got a hobby on Chess
