@@ -5,7 +5,6 @@
 > Software engineer with experience building enterprise-level applications using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. Enjoys books and chess.
 
 - 🎓 &nbsp; Software Engineer
-- 💼 &nbsp; DabbleLab 🔥 | UTA 🛠️
 - 📚 &nbsp; Into writing Technical Articles - [Hashnode](https://paclinjanja.hashnode.dev/) - [Freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/) - [writing a book about Nest.js ✍️ ⏳](https://www.linkedin.com/posts/pacifique-linjanja_packt-nestjs-nodejs-activity-7095839935445839872-TdRL?utm_source=share&utm_medium=member_desktop)
 - ♟️ &nbsp; [Challenge me on chess](https://www.chess.com/member/ghostpac)
 
