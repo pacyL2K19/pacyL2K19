@@ -8,10 +8,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JS | TS | Rust | Solidity | Ruby 
-- 🌐 &nbsp; HTML | CSS | TailwindCSS | SCSS 
+- 💻 &nbsp; JS | TS | Rust | Solidity
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | sqlite
-- 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Kafka | Kubernetes | RabbitMQ
+- 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Kafka | Kubernetes | RabbitMQ | Redis | Software Architecture
 
 <h3> Let's connect </h3>
 
