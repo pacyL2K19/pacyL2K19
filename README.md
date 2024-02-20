@@ -2,7 +2,7 @@
 
 > I am a Software engineer with experience solving enterprise-level challenges using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. I Enjoy books and chess.
 
-- 🎓 &nbsp; Software Engineer
+- 🎓 &nbsp; B.Eng. Software Engineering
 - 📚 &nbsp; Into writing Technical Articles - [Hashnode](https://paclinjanja.hashnode.dev/) - [Freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/) - [writing a book about Nest.js ✍️ ⏳](https://www.linkedin.com/posts/pacifique-linjanja_packt-nestjs-nodejs-activity-7095839935445839872-TdRL?utm_source=share&utm_medium=member_desktop)
 - ♟️ &nbsp; [Challenge me on chess](https://www.chess.com/member/ghostpac)
 
@@ -11,6 +11,7 @@
 - 💻 &nbsp; JS | TS | Rust | Solidity
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | sqlite
 - 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Kafka | Kubernetes | RabbitMQ | Redis | Software Architecture
+- 👑 &nbsp; Among Filecoin&Ethsafari#2022 hackaton winners with [SafiPay](https://github.com/Foil-Engineering/safipay)
 
 <h3> Let's connect </h3>
 
