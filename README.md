@@ -19,3 +19,5 @@
 <a href="https://linkedin.com/in/pacifique-linjanja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacifiquelinjanja-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pacilinja2@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
+
+<a href="https://gitroll.io/profile/uRwTBJS2t1qUxwnwuosuSBz7XFSC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uRwTBJS2t1qUxwnwuosuSBz7XFSC2" alt="GitRoll Profile Badge"/></a>
