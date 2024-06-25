@@ -1,6 +1,6 @@
 # Hi All 👋
 
-> I am a Software engineer with experience solving enterprise-level challenges using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. I Enjoy books and chess.
+> I am a Software engineer with experience solving entreprise-level challenges using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. I Enjoy books and chess.
 
 - 🎓 &nbsp; B.Eng. Software Engineering
 - 📚 &nbsp; Into writing Technical Articles - [Hashnode](https://paclinjanja.hashnode.dev/) - [Freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/) - [writing a book about Nest.js ✍️ ⏳](https://www.linkedin.com/posts/pacifique-linjanja_packt-nestjs-nodejs-activity-7095839935445839872-TdRL?utm_source=share&utm_medium=member_desktop)
@@ -11,7 +11,6 @@
 - 💻 &nbsp; JS | TS | Rust | Solidity
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | sqlite
 - 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Kafka | Kubernetes | RabbitMQ | Redis | Software Architecture
-- 👑 &nbsp; Among Filecoin&Ethsafari#2022 hackaton winners with [SafiPay](https://github.com/Foil-Engineering/safipay)
 
 <h3> Let's connect </h3>
 
@@ -19,5 +18,3 @@
 <a href="https://linkedin.com/in/pacifique-linjanja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacifiquelinjanja-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pacilinja2@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
-
-<a href="https://gitroll.io/profile/uRwTBJS2t1qUxwnwuosuSBz7XFSC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uRwTBJS2t1qUxwnwuosuSBz7XFSC2" alt="GitRoll Profile Badge"/></a>
