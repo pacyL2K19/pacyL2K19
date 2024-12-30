@@ -1,9 +1,9 @@
-# Hi All 👋
+# Hi All, I am Pacifique Linjanja
 
-> I am a Software engineer with experience solving entreprise-level challenges using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. I Enjoy books and chess.
+**Software engineer with experience solving entreprise-level challenges using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. I Enjoy books and chess.**
 
-- 🎓 &nbsp; B.Eng. Software Engineering
-- 📚 &nbsp; Into writing Technical Articles - [Hashnode](https://paclinjanja.hashnode.dev/) - [Freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/) - [writing a book about Nest.js ✍️ ⏳](https://www.linkedin.com/posts/pacifique-linjanja_packt-nestjs-nodejs-activity-7095839935445839872-TdRL?utm_source=share&utm_medium=member_desktop)
+- 🎓 &nbsp; B.Eng. Software Engineering | Author of **Scalable Application Development with NestJS**
+- 📚 &nbsp; Into writing Technical Articles - [Hashnode](https://paclinjanja.hashnode.dev/) - [Freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/) - [Purchase my NestJS book here](https://www.amazon.com/Scalable-Application-Development-NestJS-microservices/dp/1835468608)
 - ♟️ &nbsp; [Challenge me on chess](https://www.chess.com/member/ghostpac)
 
 <h3>🛠 Tech Stack</h3>
