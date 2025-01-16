@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JS | TS | Rust | Solidity
-- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | sqlite
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | sqlite
 - 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Kafka | Kubernetes | RabbitMQ | Redis | Software Architecture
 
 <h3> Let's connect </h3>
