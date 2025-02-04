@@ -1,20 +1,39 @@
-# Hi All, I am Pacifique Linjanja
+# Hi All, I'm Pacifique Linjanja 👋
 
-**Software engineer with experience solving entreprise-level challenges using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. I Enjoy books and chess.**
+🚀 **Building Scalable Software with JavaScript & TypeScript**  
+🔍 **Solving enterprise challenges with clean, efficient code**  
+✍️ **Author, Open Source Contributor, and Technical Speaker**  
 
-- 🎓 &nbsp; B.Eng. Software Engineering | Author of **Scalable Application Development with NestJS**
-- 📚 &nbsp; Into writing Technical Articles - [Hashnode](https://paclinjanja.hashnode.dev/) - [Freecodecamp](https://www.freecodecamp.org/news/author/paclinjanja/) - [Purchase my NestJS book here](https://www.amazon.com/Scalable-Application-Development-NestJS-microservices/dp/1835468608)
-- ♟️ &nbsp; [Challenge me on chess](https://www.chess.com/member/ghostpac)
+📖 *Author of* **Scalable Application Development with NestJS**  
+<a href="https://www.amazon.com/Scalable-Application-Development-NestJS-microservices/dp/1835468608">
+    <img align="right" src="https://m.media-amazon.com/images/I/51WLweD7SZL._SY522_.jpg" width="180" alt="Scalable Application Development with NestJS" />
+</a>
 
-<h3>🛠 Tech Stack</h3>
+---
 
-- 💻 &nbsp; JS | TS | Rust | Solidity
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | sqlite
-- 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Kafka | Kubernetes | RabbitMQ | Redis | Software Architecture
+### ✨ About Me  
+- 🎓 **B.Eng. Software Engineering**  
+- ✍️ **Tech Writer on:** [Hashnode](https://paclinjanja.hashnode.dev/) | [FreeCodeCamp](https://www.freecodecamp.org/news/author/paclinjanja/)  
+- 📖 **Love books, chess & open-source collaboration**  
+- ♟️ **[Challenge me on Chess](https://www.chess.com/member/ghostpac)**  
 
-<h3> Let's connect </h3>
+---
+
+### 🛠 Tech Stack  
+
+💻 **Languages:** JavaScript | TypeScript | Rust | Solidity  
+🛢 **Databases:** MySQL | MongoDB | PostgreSQL | SQLite  
+🔧 **Tools & Practices:** Git | GitHub | GitFlow | Jira | Agile | Docker | Kafka | Kubernetes | RabbitMQ | Redis | Software Architecture  
+
+---
+
+### 🔗 Let's Connect  
 
 <p align="left">
-<a href="https://linkedin.com/in/pacifique-linjanja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacifiquelinjanja-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pacilinja2@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+<a href="https://linkedin.com/in/pacifique-linjanja/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacifiquelinjanja-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:pacilinja2@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-pacilinja2@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook">
+</a>
 </p>
