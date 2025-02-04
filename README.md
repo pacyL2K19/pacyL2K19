@@ -1,8 +1,8 @@
 # Hi All, I'm Pacifique Linjanja 👋
 
-🚀 **Building Scalable Software with JavaScript & TypeScript**  
-🔍 **Solving enterprise challenges with clean, efficient code**  
-✍️ **Author, Open Source Contributor, and Technical Speaker**  
+- Building Scalable Software with JavaScript & TypeScript
+- Solving enterprise challenges with clean, efficient code
+- Author, Open Source Contributor, Mentor and Technical Speaker
 
 📖 *Author of* **Scalable Application Development with NestJS**  
 <a href="https://www.amazon.com/Scalable-Application-Development-NestJS-microservices/dp/1835468608">
@@ -11,7 +11,7 @@
 
 ---
 
-### ✨ About Me  
+### About Me  
 - 🎓 **B.Eng. Software Engineering**  
 - ✍️ **Tech Writer on:** [Hashnode](https://paclinjanja.hashnode.dev/) | [FreeCodeCamp](https://www.freecodecamp.org/news/author/paclinjanja/)  
 - 📖 **Love books, chess & open-source collaboration**  
